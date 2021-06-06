@@ -1,2 +1,2 @@
--> The purpose of this software is to develop a platform where students can get guidance, which will help them to make mature and informed decisions after their undergraduates using Python, Django Framework and Postgre Sq. Software was deployed using Heroku.
+-> The purpose of this software is to develop a platform where students can get guidance, which will help them to make mature and informed decisions after their undergraduates using Python, Django Framework and Postgre Sql. Software was deployed using Heroku.
 -> For software documentation: System Design Document, Coding Standards and Test cases were prepared
